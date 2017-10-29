@@ -1,0 +1,14 @@
+.frameart {
+  position: relative;
+  height: 0;
+  width: 100%;
+  padding-bottom: 100% ;
+}
+
+.frameart iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

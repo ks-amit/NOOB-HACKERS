@@ -1,0 +1,25 @@
+h2.eventheading {
+	text-align: center;
+	color: gray;
+	font-size: 40pt;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+form.eventcreate {
+	width: 75%;
+	margin: 35px 160px;
+}
+
+form.eventcreate input[type=text] {
+	width: 100%;
+	padding: 15px 10px;
+	margin: 10px 0;
+	box-sizing: border-box;
+	border: 1.5px solid #03D047;
+    border-radius: 4px;
+}
+
+form.eventcreate input[type=submit] {
+	width: 40%;
+	margin: 0px 25px;
+}
